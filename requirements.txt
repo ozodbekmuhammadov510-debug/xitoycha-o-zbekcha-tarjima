@@ -1,0 +1,9 @@
+pyTelegramBotAPI
+deep-translator
+torch
+openai-whisper
+pytesseract
+Pillow
+python-docx
+PyPDF2
+gTTS
